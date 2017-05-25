@@ -7,23 +7,7 @@ app.controller('mainCtrl', function () {
         {
             login: "Anna"
             , password: "221294"
-            }
-        , {
-            login: "John"
-            , password: "123456"
-            }
-        , {
-            login: "Trol"
-            , password: "Trol"
-            }
-        , {
-            login: "Arnold"
-            , password: "Schwarzenegger"
-            }
-        , {
-            login: "Peter"
-            , password: "peter"
-            }
+	}
         ];
     this.postes = [{
         avtor: "Admin"
